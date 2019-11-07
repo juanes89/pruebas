@@ -1,4 +1,4 @@
-python3
+
 Hug
 pytest
 psycopg2
