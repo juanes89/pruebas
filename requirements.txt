@@ -1,4 +1,4 @@
-python==3.7
+python3
 Hug
 pytest
 psycopg2
